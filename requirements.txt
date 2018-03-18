@@ -1,0 +1,9 @@
+numpy==1.14.2
+imutils==0.4.5
+opencv_python==3.4.0.12
+Flask==0.12.2
+Flask_Uploads==0.2.1
+Keras==2.1.5
+scikit_learn==0.19.1
+theano==1.0.1
+h5py==2.7.1
